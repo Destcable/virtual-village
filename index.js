@@ -1,6 +1,6 @@
 class Resident {
     constructor(name) { 
         this.name = name;
-        console.log(this.name);
+        this.age = 0;
     }
 }
